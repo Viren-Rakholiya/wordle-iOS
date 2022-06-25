@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		185D028A2866199200435003 /* KeyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185D02892866199200435003 /* KeyCollectionViewCell.swift */; };
 		186B162128635F1000C1AF48 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186B162028635F1000C1AF48 /* AppDelegate.swift */; };
 		186B162328635F1000C1AF48 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186B162228635F1000C1AF48 /* SceneDelegate.swift */; };
 		186B162528635F1000C1AF48 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186B162428635F1000C1AF48 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		185D02892866199200435003 /* KeyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyCollectionViewCell.swift; sourceTree = "<group>"; };
 		186B161D28635F1000C1AF48 /* wordleGProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = wordleGProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		186B162028635F1000C1AF48 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		186B162228635F1000C1AF48 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,9 +68,10 @@
 				186B162928635F1200C1AF48 /* Assets.xcassets */,
 				186B162B28635F1200C1AF48 /* LaunchScreen.storyboard */,
 				186B162E28635F1200C1AF48 /* Info.plist */,
+				186B162428635F1000C1AF48 /* ViewController.swift */,
 				186B16342863616000C1AF48 /* KeyboardViewController.swift */,
 				186B16362863619B00C1AF48 /* WordleBoardViewController.swift */,
-				186B162428635F1000C1AF48 /* ViewController.swift */,
+				185D02892866199200435003 /* KeyCollectionViewCell.swift */,
 			);
 			path = wordleGProject;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			files = (
 				186B162528635F1000C1AF48 /* ViewController.swift in Sources */,
 				186B162128635F1000C1AF48 /* AppDelegate.swift in Sources */,
+				185D028A2866199200435003 /* KeyCollectionViewCell.swift in Sources */,
 				186B162328635F1000C1AF48 /* SceneDelegate.swift in Sources */,
 				186B16372863619B00C1AF48 /* WordleBoardViewController.swift in Sources */,
 				186B16352863616000C1AF48 /* KeyboardViewController.swift in Sources */,
